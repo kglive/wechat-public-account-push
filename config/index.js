@@ -25,7 +25,7 @@ export const config = {
     //   id: "wxafasdasdd-zxfvsdfd"
     // }]
     USERS: [
-      {name: '老婆', id: "oqRu_6ugoJJMPT77W6RGmEnPau2k"}, 
+      {name: '女朋友', id: "oqRu_6ugoJJMPT77W6RGmEnPau2k"}, 
 //       {name: '老婆1', id: "2hxOO6VskYv0Kuf-y你懂的,填错狗头打烂RMpuXhk"}, 
 //       {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
 //       {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
@@ -53,8 +53,8 @@ export const config = {
     // 生日时，name填写想要展示的名字，你可以填“美丽可爱亲亲老婆”
     // 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
     FESTIVALS: [
-      {"type": "生日", "name": "女票", "year": "1996", "date": "05-23"},
-//       {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "01-04"},
+      {"type": "生日", "name": "女朋友", "year": "1996", "date": "05-23"},
+      {"type": "节日", "name": "在一起的日子", "year": "2021", "date": "06-01"},
 //       {"type": "生日", "name": "李四", "year": "1996", "date": "08-29"},
 //       {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "08-29"},
     ],
@@ -65,10 +65,10 @@ export const config = {
 
     /** 日期相关 */
 
-    // 在一起的日子，格式同上
+    // 成为女朋友，格式同上
     LOVE_DATE: "2020-10-01",
-    // 结婚纪念日
-    MARRY_DATE: "2020-01-04",
+    // 在一起的日子
+    MARRY_DATE: "2021-06-01",
 
 
     /** 每日一言 */
